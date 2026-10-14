@@ -1,13 +1,14 @@
 # Bingo Boy — support
 
-**Bingo Boy** is an iPhone app for paper bingo. Photograph each page of your bingo books, then tap
+**Bingo Boy** is an iPhone and Android app for paper bingo. Photograph each page of your bingo books, then tap
 numbers as they're called: every sheet in every book is marked at once, and the app tells you the
 moment a card wins.
 
 ## Get help
 
-- **Questions, problems or ideas:** [open an issue](https://github.com/PPP12AG/Bingo-Boy/issues/new)
-  and describe what happened. Include your iPhone model and iOS version if something went wrong.
+- **Email:** [bingoboyapp@gmail.com](mailto:bingoboyapp@gmail.com) for questions, problems or ideas. If something went wrong, include your
+  phone model (iPhone or Android) and what you were doing.
+- **Or** [open an issue](https://github.com/PPP12AG/Bingo-Boy/issues/new) here on GitHub.
 - **Privacy policy:** https://ppp12ag.github.io/Bingo-Boy/privacy.html
 
 ## Common questions
