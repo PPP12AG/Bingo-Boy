@@ -9,6 +9,7 @@ moment a card wins.
 - **Email:** [bingoboyapp@gmail.com](mailto:bingoboyapp@gmail.com) for questions, problems or ideas. If something went wrong, include your
   phone model (iPhone or Android) and what you were doing.
 - **Or** [open an issue](https://github.com/PPP12AG/Bingo-Boy/issues/new) here on GitHub.
+- **User manual (PDF):** https://ppp12ag.github.io/Bingo-Boy/manual.pdf
 - **Privacy policy:** https://ppp12ag.github.io/Bingo-Boy/privacy.html
 
 ## Common questions
