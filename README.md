@@ -14,15 +14,15 @@ moment a card wins.
 
 ## Common questions
 
-**Where are my books saved?** On your phone only. Nothing is uploaded. Use **Backup → Save a backup**
+**Where are my books saved?** On your phone only. Nothing is uploaded. Use **Settings → Backup and restore → Save a backup**
 to keep a copy in Files or email it to yourself.
 
 **A number was read wrong.** Open the book, tap **Fix numbers** on that page, tap the square and type
 the right number.
 
-**How do I pick what we're playing for?** When a game starts (and after "Keep playing" or "End game"),
+**How do I pick what we're playing for?** When a game starts (and after a winner is called),
 tick the patterns. Tap **Patterns** at the top of the game to change them at any time. Make your own
 under **Settings → Make a custom pattern**.
 
-**I ended a game by mistake.** On the next game, tap **"Ended game … by mistake? Go back to it."**
-You can go back up to two games.
+**I ended a game by mistake.** In the game, tap **‹ Page** beside Main books to go back to that page
+(as far as page 1), then tap **Edit this page**.
